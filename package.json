@@ -14,7 +14,7 @@
         "core-js": "^3.9.1",
         "css-loader": "^5.1.3",
         "less": "3.12.2",
-        "less-loader": "^7.3.0",
+        "less-loader": "^8.0.0",
         "register-service-worker": "^1.7.1",
         "shaka-player": "3.0.9",
         "uikit": "3.6.18",
